@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MandarinHouse.IT.Api/MandarinHouse.IT.Api.csproj" />
+    <Project Path="src/MandarinHouse.IT.Core/MandarinHouse.IT.Core.csproj" />
+    <Project Path="src/MandarinHouse.IT.Infrastructure/MandarinHouse.IT.Infrastructure.csproj" />
+    <Project Path="src/MandarinHouse.IT.Shared/MandarinHouse.IT.Shared.csproj" />
+  </Folder>
+</Solution>
